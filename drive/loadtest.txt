@@ -1,0 +1,17 @@
+12V no load: 	0.08 A, 180 rpm
+12V med load: 	0.6 A	120 rpm
+12V high load: 	1 A	60 rpm
+12V stall: 	1.4 A	-
+
+torque on a 7mm radius:
+ - 0.6 A 	10 N
+ - 1 A		15 N
+
+rope pull length: 330mm
+
+
+desired pull time: 30sec. 
+est. drum diameter: 16mm
+-> we need 12 RPM
+
+drive wheel: 12.7 mm diam, 34 teeth
