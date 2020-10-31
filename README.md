@@ -7,10 +7,11 @@ He is also known for his [helicone](http://www.johnedmark.com/rotating1/2016/4/2
 The lasercut parts are designed with inkscape. The sides of the arm are drawn in their rolled up position, they almost completely fill the plane.
 You can still see how the grains of wood continue, when the arm fully rolled up.
 I am adding different amounts of spacers between the two sides, to that the arm becomes a more natural 3-dimensional object.
-The sides are cut out of 4mm birch plywood. (3mm would do just fine too.)
-for the spacers you need 3, 4 and 5 mm plywood, so that they can be stacked for all the different widths needed. See spacers.txt for the exact stacking.
-The shafts for mounting the segments are 6mm, 4mm, 3mm, and 2mm diameter beechwood. The 2mm ones are simply toothpics.
-My design includes 27 segments with 8 segments completing a full circle.
+The sides are cut out of 4mm birch plywood using arm-8er-shaped_laser3mm.svg (arm-8er-shaped_laser4mm.svg has the same for 3mm sides).
+Either svg file also includes the needed spacers. For the spacers you need 3, 4 and 5 mm plywood, so that they can be stacked for all the 
+different widths needed. See spacers.txt for the exact stacking. The shafts for mounting the segments are cut from beechwood rods with are 
+6mm, 4mm, 3mm, and 2mm diameter. The 2mm ones are simply toothpics. I love toothpicks. You'll need lots of them, the often also serve as alignment pins.
+My design includes 26 segments, with 8 segments per revolution.
 
 You can hold the arm in your hands and pull the string to play with it. But as it is rather large and heavy, I also made a mount and an electric drive for it.
 
@@ -29,3 +30,4 @@ the logic is very simple. The winds up the string, until the arm is fully curled
 You can also use an arudino-nano or similar instead of the bare metal 2313 -- programming a nano or uno is easier than. But for some reason I prefered to be minimalistic with the electronics.
 
 If you can come up with a mechanical reversal switch that reliably works with this arm, please let me know. I failed to come up with something sufficiently robust, and went for the electronic solution instead. 
+

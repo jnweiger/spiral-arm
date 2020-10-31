@@ -13,7 +13,7 @@
    viewBox="0 0 400.00001 300.00001"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (1.0+r73+1)"
+   inkscape:version="1.0.1 (1.0.1+r73)"
    sodipodi:docname="arm-8er-shaped.svg">
   <defs
      id="defs2" />
@@ -28,7 +28,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0579342"
+     inkscape:zoom="0.18701811"
      inkscape:cx="614.96539"
      inkscape:cy="615.45209"
      inkscape:document-units="mm"
@@ -44,7 +44,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="1080"
      inkscape:window-maximized="1"
      units="mm">
     <inkscape:grid
@@ -691,7 +691,7 @@
        x="0"
        style="stroke-width:4.11343;stroke-miterlimit:4;stroke-dasharray:none" />
     <g
-       transform="translate(-386.46569,-110.2297)"
+       transform="translate(-376.46569,-110.2297)"
        inkscape:transform-center-y="-40.000003"
        inkscape:transform-center-x="-7.5000035"
        style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -869,34 +869,34 @@
      id="layer2"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/testy/damkenCloud/svg/john_edmark_spiral_arm/Screenshot from 2020-09-27 15-48-55.png"
-       xlink:href="Screenshot%20from%202020-09-27%2015-48-55.png"
-       y="160.08749"
-       x="616.49731"
-       width="576.79169"
+       sodipodi:absref="/home/testy/src/github/jnweiger/spiral-arm/photos/Screenshot from 2020-09-27 15-48-55.png"
+       xlink:href="photos/Screenshot%20from%202020-09-27%2015-48-55.png"
+       id="image430"
+       preserveAspectRatio="none"
        height="305.15277"
-       preserveAspectRatio="none"
-       id="image430" />
+       width="576.79169"
+       x="616.49731"
+       y="160.08749" />
     <image
-       sodipodi:absref="/home/testy/damkenCloud/svg/john_edmark_spiral_arm/Screenshot from 2020-09-27 15-51-45.png"
-       xlink:href="Screenshot%20from%202020-09-27%2015-51-45.png"
-       y="-152.81757"
-       x="441.00128"
-       width="391.58334"
+       sodipodi:absref="/home/testy/src/github/jnweiger/spiral-arm/photos/Screenshot from 2020-09-27 15-51-45.png"
+       xlink:href="photos/Screenshot%20from%202020-09-27%2015-51-45.png"
+       id="image444"
+       preserveAspectRatio="none"
        height="221.54443"
-       preserveAspectRatio="none"
-       id="image444" />
+       width="391.58334"
+       x="441.00128"
+       y="-152.81757" />
     <image
-       sodipodi:absref="/home/testy/damkenCloud/svg/john_edmark_spiral_arm/Screenshot from 2020-09-27 16-01-40.png"
-       xlink:href="Screenshot%20from%202020-09-27%2016-01-40.png"
-       y="-175.77936"
-       x="-282.27658"
-       width="278.51797"
-       height="164.39444"
-       preserveAspectRatio="none"
-       id="image458"
+       sodipodi:absref="/home/testy/src/github/jnweiger/spiral-arm/photos/Screenshot from 2020-09-27 16-01-40.png"
+       xlink:href="photos/Screenshot%20from%202020-09-27%2016-01-40.png"
+       style="stroke-width:0.97661"
        transform="scale(-1,1)"
-       style="stroke-width:0.97661" />
+       id="image458"
+       preserveAspectRatio="none"
+       height="164.39444"
+       width="278.51797"
+       x="-282.27658"
+       y="-175.77936" />
     <path
        transform="matrix(0.94154186,0.54359942,0.54359942,-0.94154186,848.27454,182.09609)"
        d="m -320.69684,51.431881 c 0.65245,15.056225 -12.4075,26.985009 -26.9896,27.45188 -18.42004,0.58975 -32.94325,-15.437752 -33.34358,-33.321454 -0.49692,-22.198344 18.87291,-39.6304612 40.47038,-39.934757 26.40693,-0.3720582 47.07428,22.729565 47.25109,48.468828 0.21336,31.061002 -27.02367,55.301362 -57.34803,55.317372 -36.17529,0.0191 -64.33747,-31.770614 -64.1576,-67.138168 0.21238,-41.76402115 36.98528,-74.207553 77.86843,-73.795062 47.84105,0.482693 84.93587,42.682117 84.25237,89.567145 -0.79336,54.419855 -48.87512,96.546005 -102.26183,95.551535 -61.51351,-1.14585 -109.0609,-55.577899 -107.71402,-115.979243 1.4554,-65.267481 56.51935,-117.447684 120.76602,-120.641166"

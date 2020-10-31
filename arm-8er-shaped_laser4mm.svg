@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (1.0+r73+1)"
+   inkscape:version="1.0.1 (1.0.1+r73)"
    sodipodi:docname="arm-8er-shaped_laser4mm.svg"
    id="svg1310"
    version="1.1"
@@ -28,11 +28,11 @@
      inkscape:window-width="1920"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g8027"
      inkscape:document-units="mm"
-     inkscape:cy="1529.381"
-     inkscape:cx="589.80932"
-     inkscape:zoom="0.55073072"
+     inkscape:cy="1840.079"
+     inkscape:cx="609.40179"
+     inkscape:zoom="0.71323114"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -7623,7 +7623,7 @@
        id="g8027">
       <g
          id="g6122"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(-0.95471191,0.29753181,0.29753181,0.95471191,492.18044,109.30821)">
@@ -7914,7 +7914,7 @@
       </g>
       <g
          id="g6192"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(-0.46419976,0.82313035,0.82313035,0.46419976,161.90577,37.64041)">
@@ -8193,7 +8193,7 @@
       </g>
       <g
          id="g6262"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(0.21376427,0.86706314,0.86706314,-0.21376427,-111.77299,202.25834)">
@@ -8472,7 +8472,7 @@
       </g>
       <g
          id="g6332"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(0.70871776,0.45814944,0.45814944,-0.70871776,-193.45765,492.80151)">
@@ -8751,7 +8751,7 @@
       </g>
       <g
          id="g6402"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(0.78441858,-0.143818,-0.143818,-0.78441858,-61.46765,745.63028)">
@@ -9030,7 +9030,7 @@
       </g>
       <g
          id="g6472"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(0.44658987,-0.60705678,-0.60705678,-0.44658987,193.11927,834.1028)">
@@ -9309,7 +9309,7 @@
       </g>
       <g
          id="g6542"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(-0.08592226,-0.70697967,-0.70697967,0.08592226,425.60367,730.07371)">
@@ -9588,7 +9588,7 @@
       </g>
       <g
          id="g6622"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(-0.51705949,-0.43080663,-0.43080663,0.51705949,518.18902,507.90382)">
@@ -9867,7 +9867,7 @@
       </g>
       <g
          id="g6697"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(-0.63483051,0.03848779,0.03848779,0.63483051,437.98765,295.06112)">
@@ -10146,7 +10146,7 @@
       </g>
       <g
          id="g6770"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(-0.41188703,0.43768679,0.43768679,0.41188703,244.93599,200.55706)">
@@ -10425,7 +10425,7 @@
       </g>
       <g
          id="g6852"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(9.3349327e-5,0.56796044,0.56796044,-9.3349327e-5,50.88617,260.57703)">
@@ -10704,7 +10704,7 @@
       </g>
       <g
          id="g6930"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(0.36795388,0.39074432,0.39074432,-0.36795388,-43.7593,427.56935)">
@@ -10983,7 +10983,7 @@
       </g>
       <g
          id="g7010"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(0.50628336,0.03052735,0.03052735,-0.50628336,-0.71609,603.77963)">
@@ -11262,7 +11262,7 @@
       </g>
       <g
          id="g7097"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(0.36813947,-0.30693365,-0.30693365,-0.36813947,143.0394,697.14647)">
@@ -11541,7 +11541,7 @@
       </g>
       <g
          id="g7169"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(0.05449843,-0.44965427,-0.44965427,-0.05449843,302.43257,668.27484)">
@@ -11820,7 +11820,7 @@
       </g>
       <g
          id="g7250"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(-0.2537587,-0.34470085,-0.34470085,0.2537587,393.40732,545.16367)">
@@ -12099,7 +12099,7 @@
       </g>
       <g
          id="g7320"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(-0.39788332,-0.07281412,-0.07281412,0.39788332,376.2618,401.52497)">
@@ -12378,7 +12378,7 @@
       </g>
       <g
          id="g7390"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(-0.32094183,0.20762194,0.20762194,0.32094183,271.42399,313.7952)">
@@ -12657,7 +12657,7 @@
       </g>
       <g
          id="g7460"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(-0.08635045,0.35074771,0.35074771,0.08635045,142.46076,321.33718)">
@@ -12936,7 +12936,7 @@
       </g>
       <g
          id="g7530"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(0.16777627,0.29727655,0.29727655,-0.16777627,58.60842,410.06105)">
@@ -13215,7 +13215,7 @@
       </g>
       <g
          id="g7600"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(0.30800161,0.0958763,0.0958763,-0.30800161,58.38078,525.42502)">
@@ -13494,7 +13494,7 @@
       </g>
       <g
          id="g7670"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(0.27403387,-0.1335334,-0.1335334,-0.27403387,132.9497,604.95259)">
@@ -13517,7 +13517,7 @@
            sodipodi:nodetypes="cccc" />
         <text
            xml:space="preserve"
-           style="font-size:7.05556px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;letter-spacing:0px;word-spacing:0px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-size:7.05556px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;letter-spacing:0px;word-spacing:0px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;opacity:1;"
            x="282.76559"
            y="356.19229"
            id="text7608"><tspan
@@ -13525,7 +13525,7 @@
              id="tspan7606"
              x="282.76559"
              y="356.19229"
-             style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" /></text>
+             style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;" /></text>
         <path
            sodipodi:nodetypes="csscccssccc"
            id="path7610"
@@ -13545,7 +13545,7 @@
            id="path7612"
            style="opacity:1;fill:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
         <path
-           style="opacity:0.692759;fill:#ffff00;stroke:#0000ff;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#ffff00;stroke:#0000ff;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 248.46569,334.2297 v -110"
            id="path7614"
            sodipodi:nodetypes="cc" />
@@ -13773,7 +13773,7 @@
       </g>
       <g
          id="g7742"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(0.10206378,-0.26938446,-0.26938446,-0.10206378,235.77249,611.37314)">
@@ -13796,7 +13796,7 @@
            sodipodi:nodetypes="cccc" />
         <text
            xml:space="preserve"
-           style="font-size:7.05556px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;letter-spacing:0px;word-spacing:0px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-size:7.05556px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;letter-spacing:0px;word-spacing:0px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;opacity:1;"
            x="282.76559"
            y="356.19229"
            id="text7678"><tspan
@@ -13804,7 +13804,7 @@
              id="tspan7676"
              x="282.76559"
              y="356.19229"
-             style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" /></text>
+             style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;" /></text>
         <path
            sodipodi:nodetypes="csscccssccc"
            id="path7680"
@@ -13824,7 +13824,7 @@
            id="path7682"
            style="opacity:1;fill:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
         <path
-           style="opacity:0.692759;fill:#ffff00;stroke:#0000ff;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#ffff00;stroke:#0000ff;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 248.46569,334.2297 v -110"
            id="path7684"
            sodipodi:nodetypes="cc" />
@@ -14058,7 +14058,7 @@
       </g>
       <g
          id="g7817"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(-0.10426209,-0.25146987,-0.25146987,0.10426209,310.68213,549.18875)">
@@ -14081,7 +14081,7 @@
            sodipodi:nodetypes="cccc" />
         <text
            xml:space="preserve"
-           style="font-size:7.05556px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;letter-spacing:0px;word-spacing:0px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-size:7.05556px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;letter-spacing:0px;word-spacing:0px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;opacity:1;"
            x="282.76559"
            y="356.19229"
            id="text7753"><tspan
@@ -14089,7 +14089,7 @@
              id="tspan7751"
              x="282.76559"
              y="356.19229"
-             style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" /></text>
+             style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;" /></text>
         <path
            sodipodi:nodetypes="csscccssccc"
            id="path7755"
@@ -14109,7 +14109,7 @@
            id="path7757"
            style="opacity:1;fill:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
         <path
-           style="opacity:0.692759;fill:#ffff00;stroke:#0000ff;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#ffff00;stroke:#0000ff;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 248.46569,334.2297 v -110"
            id="path7759"
            sodipodi:nodetypes="cc" />
@@ -14343,7 +14343,7 @@
       </g>
       <g
          id="g7890"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:transform-center-x="-7.5000035"
          inkscape:transform-center-y="-40.000003"
          transform="matrix(-0.23462776,-0.10549799,-0.10549799,0.23462776,321.94705,457.87882)">
@@ -14366,7 +14366,7 @@
            sodipodi:nodetypes="cccc" />
         <text
            xml:space="preserve"
-           style="font-size:7.05556px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;letter-spacing:0px;word-spacing:0px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-size:7.05556px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;letter-spacing:0px;word-spacing:0px;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;opacity:1;"
            x="282.76559"
            y="356.19229"
            id="text7825"><tspan
@@ -14374,7 +14374,7 @@
              id="tspan7823"
              x="282.76559"
              y="356.19229"
-             style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" /></text>
+             style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;" /></text>
         <path
            sodipodi:nodetypes="csscccssccc"
            id="path7827"
@@ -14394,7 +14394,7 @@
            id="path7829"
            style="opacity:1;fill:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
         <path
-           style="opacity:0.692759;fill:#ffff00;stroke:#0000ff;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="opacity:1;fill:#ffff00;stroke:#0000ff;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 248.46569,334.2297 v -110"
            id="path7831"
            sodipodi:nodetypes="cc" />
@@ -14624,7 +14624,7 @@
          transform="matrix(-0.10668601,0.20346065,0.20346065,0.10668601,189.76709,372.79041)"
          inkscape:transform-center-y="-7.479391"
          inkscape:transform-center-x="-9.3997397"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.10582;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.10582;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="g7954">
         <path
            id="path7892"
@@ -14647,9 +14647,9 @@
            id="text7898"
            y="356.19229"
            x="282.76559"
-           style="font-size:7.05556px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;letter-spacing:0px;word-spacing:0px;stroke-width:0.10582;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-size:7.05556px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;letter-spacing:0px;word-spacing:0px;stroke-width:0.10582;stroke-miterlimit:4;stroke-dasharray:none;opacity:1;"
            xml:space="preserve"><tspan
-             style="stroke-width:0.10582;stroke-miterlimit:4;stroke-dasharray:none"
+             style="stroke-width:0.10582;stroke-miterlimit:4;stroke-dasharray:none;"
              y="356.19229"
              x="282.76559"
              id="tspan7896"
@@ -14676,7 +14676,7 @@
            sodipodi:nodetypes="cc"
            id="path7904"
            d="m 248.46569,334.2297 v -110"
-           style="opacity:0.692759;fill:#ffff00;stroke:#0000ff;stroke-width:0.10582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#ffff00;stroke:#0000ff;stroke-width:0.10582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <circle
            style="opacity:1;fill:#ffff00;stroke:#ff0000;stroke-width:0.21164;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
            id="circle7906"
@@ -14879,7 +14879,7 @@
          transform="matrix(-0.2297788,0.07938582,0.07938582,0.2297788,270.55336,387.75315)"
          inkscape:transform-center-y="-23.617012"
          inkscape:transform-center-x="-30.965274"
-         style="opacity:0.692759;stroke:#ff0000;stroke-width:0.10582;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;stroke:#ff0000;stroke-width:0.10582;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="g8025">
         <path
            id="path7956"
