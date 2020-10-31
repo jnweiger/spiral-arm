@@ -31,9 +31,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4098826"
-     inkscape:cx="592.19407"
-     inkscape:cy="697.00504"
+     inkscape:zoom="0.61647185"
+     inkscape:cx="271.175"
+     inkscape:cy="896.01608"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
@@ -42,22 +42,22 @@
      inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1055"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="1080"
      inkscape:window-maximized="1"
      inkscape:snap-smooth-nodes="false"
      inkscape:snap-intersection-paths="false"
      inkscape:object-nodes="true"
-     inkscape:object-paths="true"
+     inkscape:object-paths="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-others="true"
-     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-bbox-midpoints="true"
      inkscape:snap-global="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:bbox-nodes="true">
+     inkscape:bbox-nodes="false">
     <inkscape:grid
        type="xygrid"
        id="grid5207"
@@ -78,6 +78,10 @@
        position="310,484"
        orientation="1,0"
        id="guide3292" />
+    <sodipodi:guide
+       position="262,499"
+       orientation="1,0"
+       id="guide2016" />
   </sodipodi:namedview>
   <metadata
      id="metadata509">
@@ -87,7 +91,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5256,7 +5260,7 @@
     <g
        id="g7608-2-6-3"
        style="display:inline"
-       transform="rotate(90,187,213)">
+       transform="rotate(90,184,216)">
       <path
          id="rect2118"
          style="opacity:1;fill:none;stroke:#ff0000;stroke-width:0.242212;stroke-linejoin:round;stop-color:#000000"
@@ -5684,7 +5688,7 @@
     <g
        id="g2199"
        style="display:inline"
-       transform="matrix(0,1,1,0,-256.50323,118)">
+       transform="matrix(0,1,1,0,-256.50323,124)">
       <path
          id="path2147"
          style="opacity:1;fill:none;stroke:#ff0000;stroke-width:0.242212;stroke-linejoin:round;stop-color:#000000"
@@ -5855,179 +5859,204 @@
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       id="g2350"
-       inkscape:transform-center-x="184.99988"
-       inkscape:transform-center-y="-6.1921779e-05">
+       id="use2022"
+       inkscape:transform-center-x="184.99995"
+       inkscape:transform-center-y="-8.4830965e-05"
+       transform="translate(-7.7341497e-5,-2.318212e-5)">
       <path
          style="fill:none;stroke:#ff0000;stroke-width:0.755906;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         d="M 944.88281,471.08398 V 209.23242 l -128.78906,-63.06108 -140.78323,9e-5 L 129.79233,-1.4463568e-5 37.794922,0 C 16.856339,3.2919039e-6 0,16.856339 0,37.794922 V 642.51953 c 0,20.93858 16.856339,37.79492 37.794922,37.79492 l 91.998328,-10e-6 545.51722,-146.17088 h 140.78502 z"
-         transform="scale(0.26458333)"
-         id="path2298"
-         sodipodi:nodetypes="cccccsssscccc" />
+         d="m 944.88281,385.51117 6e-5,-90.70729 L 789.8101,139.73115 675.31052,146.17143 357.1584,60.922635 310.53076,18.045659 243.17816,-1.4463568e-5 37.794922,0 C 16.856339,1.4745441e-6 0,16.856339 0,37.794922 V 642.51953 c 0,20.93858 16.856339,37.79492 37.794922,37.79492 l 205.384158,-10e-6 67.35168,-18.04501 46.48891,-42.84012 318.2908,-85.28575 114.49961,6.44038 z"
+         id="path2024"
+         sodipodi:nodetypes="cccccccsssscccccc"
+         transform="scale(0.26458333)" />
       <rect
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         id="rect2300"
+         id="rect2026"
          width="9.9999084"
          height="7.999928"
          x="26"
          y="67" />
       <rect
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         id="rect2302"
+         id="rect2028"
          width="10.00043"
          height="8"
          x="54"
          y="67" />
       <rect
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         id="rect2304"
+         id="rect2030"
          width="10.000006"
          height="7.9999948"
          x="81.999939"
          y="67" />
       <rect
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         id="rect2306"
+         id="rect2032"
          width="9.9999218"
          height="7.9999161"
          x="110.00018"
          y="75" />
       <rect
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         id="rect2308"
+         id="rect2034"
          width="9.9999084"
          height="7.999928"
          x="26"
          y="105" />
       <rect
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         id="rect2310"
+         id="rect2036"
          width="10.00043"
          height="8"
          x="54"
          y="105" />
       <rect
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         id="rect2312"
+         id="rect2038"
          width="10.000006"
          height="7.9999948"
          x="81.999939"
          y="105" />
       <rect
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         id="rect2314"
+         id="rect2040"
          width="9.9999218"
          height="7.9999161"
          x="110.00018"
          y="97" />
       <rect
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         id="rect2316"
+         id="rect2042"
          width="9.9999218"
          height="7.9999161"
          x="82.000183"
          y="97" />
       <rect
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         id="rect2318"
+         id="rect2044"
          width="9.9999218"
          height="7.9999161"
          x="82.000183"
          y="75" />
       <rect
          style="fill:none;stroke:#0000ff;stroke-width:0.277775;stroke-linejoin:round;stop-color:#000000"
-         id="rect2320"
+         id="rect2046"
          width="72"
          height="58"
          x="120"
          y="61" />
       <circle
          style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stop-color:#000000"
-         id="circle2322"
+         id="circle2048"
          cx="29.88151"
          cy="14.94247"
          r="4" />
       <circle
          style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stop-color:#000000"
-         id="circle2324"
+         id="circle2050"
          cx="29.881556"
          cy="165.05757"
          r="4" />
       <circle
          style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stop-color:#000000"
-         id="circle2326"
+         id="circle2052"
          cx="220.16888"
          cy="65.929817"
          r="4" />
       <circle
          style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stop-color:#000000"
-         id="circle2328"
+         id="circle2054"
          cx="220.16888"
          cy="114.07017"
          r="4" />
       <circle
          style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stop-color:#000000"
-         id="circle2330"
+         id="circle2056"
          cx="43"
          cy="31.151329"
          r="3" />
       <circle
          style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stop-color:#000000"
-         id="circle2332"
+         id="circle2058"
          cx="203"
          cy="127.78426"
          r="3" />
       <circle
          style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stop-color:#000000"
-         id="circle2334"
+         id="circle2060"
          cx="43"
          cy="148.84866"
          r="3" />
       <circle
          style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stop-color:#000000"
-         id="circle2336"
+         id="circle2062"
          cx="203"
          cy="52.215729"
          r="3" />
       <rect
          style="fill:none;stroke:#ff0000;stroke-width:0.178885;stroke-linejoin:round;stop-color:#000000"
-         id="rect2338"
+         id="rect2064"
          width="22.999998"
          height="20"
          x="142"
          y="100" />
       <circle
          style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stop-color:#000000"
-         id="circle2340"
+         id="circle2066"
          cx="58"
          cy="90"
          r="4" />
       <circle
          style="display:inline;opacity:1;fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linejoin:round;stop-color:#000000"
-         id="circle2342"
+         id="circle2068"
          cx="58"
          cy="89.999985"
          r="18" />
       <circle
          style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stop-color:#000000"
-         id="circle2344"
+         id="circle2070"
          cx="180.16888"
          cy="89.929817"
          r="6" />
       <rect
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         id="rect2346"
+         id="rect2072"
          width="10.000006"
          height="7.9999948"
          x="91.999939"
          y="113" />
       <rect
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         id="rect2348"
+         id="rect2074"
          width="10.000006"
          height="7.9999948"
          x="91.999939"
          y="59" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stop-color:#000000"
+         id="circle2086"
+         cx="74.042023"
+         cy="167.85477"
+         r="3" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stop-color:#000000"
+         id="circle2092"
+         cx="232.3868"
+         cy="102.26622"
+         r="3" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stop-color:#000000"
+         id="circle2111"
+         cx="232.38683"
+         cy="77.733772"
+         r="3" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-linejoin:round;stop-color:#000000"
+         id="circle2115"
+         cx="74.042053"
+         cy="12.145216"
+         r="3" />
     </g>
   </g>
 </svg>

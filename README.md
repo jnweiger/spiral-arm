@@ -16,7 +16,8 @@ You can hold the arm in your hands and pull the string to play with it. But as i
 
 The mount is made out of 8mm plywood. Gluing the tabs firmly into the base plate is important. As the arm gives a strong pull there, when fully extended.
 The base should be secured to the table with a clamp or several kg of counterweight to prevent it from flipping over. 
-There are several holes in the base. You can use them to mount the base on a tripod (if you dare), or connect multiple bases side by side in 15°, 30° ot 45° anngle (just in case you want to complete an octopus eventually).
+There are several holes in the base. You can use them to mount the base on a tripod (if you dare), or connect multiple bases side by side fanning out the arms in
+in 15°, 30° or 45° angle (just in case you want to complete an octopus eventually).
 
 The electric drive is based on an inexpensive worm gear motor found on ebay. It runs from 12v and takes less than 1A. 
 It is built into a gearbox with lasercut gears from 3mm POM and a 3D-printed spool for winding up the string. The 3D-print design was made with FreeCAD.
