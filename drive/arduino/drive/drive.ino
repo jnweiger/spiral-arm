@@ -5,7 +5,7 @@
  * When switch 1 is pressed, motor 1 pauses PAUSE_TIME, then reverses its direction.
  * Same for switch 2 and motor 2.
  * The switches are disabled (ignored) during the pause and for SWITCH_DEBOUNCE_TIME afterwards for debouncing.
- *
+ * Optional function do_wink() can do some fun with the tip of the arm when extended.
  *
  * Switch 1: PIN_PB1   13
  * Switch 2: PIN_PB0   12
@@ -23,34 +23,39 @@
 
 
 uint16_t led_cnt = 0;
-#define LED_INTERVALL 50	// unit of 10 msec
+#define LED_INTERVALL 50		// unit of 10 msec
 
 #define SWITCH_PRESSED LOW		/* Switch is connected to GND. Default: HIGH due to pullup */
 #define SWITCH_DEBOUNCE_TIME 100	// unit of 10 msec
 #define PAUSE_TIME 400			// unit of 10 msec. remain fully rolled up.
-#define WINK_TIME_OFFSET 500		// unit of 10 msec. Avoid hitting "exactly the unrolled point, where the string is loose"
 #define ACCEL_TIME 10			// unit of 80 msec. Softstart ramp.
+
+#define WINK_START_OFFSET_TIME 600	// unit of 10 msec. Avoid hitting "exactly the unrolled point, where the string is loose"
+#define WINK_SLOW_TIME 100		// unit of 10 msec. move slow before and after winking
+#define WINK_SLOW_PWM 2			// which pwm_pattern to use for wink slow down.
+#define WINK_MOVE_TIME 150		// unit of 10 msec. how long one wink move takes.
 
 
 typedef struct {
-  uint8_t switch_pin;
-  uint8_t bridge1_pin;
-  uint8_t bridge2_pin;
+  uint8_t switch_pin;		// Input pin for the reverse button. MUST INITIALIZE!
+  uint8_t bridge1_pin;		// Output pin1 for the L298N bridge. MUST INITIALIZE!
+  uint8_t bridge2_pin;		// Output pin2 for the L298N bridge. MUST INITIALIZE!
 
-  uint8_t accel_cnt;		// count down until next higher speed.
-  uint8_t pwm_speed;		// which pwm_pattern array we use. 0 = 25%, 6 = 100%
-  uint8_t pwm_bit;		// which pwm bit position we use.
-  uint8_t fwd;			// boolean
-  uint16_t debounce_cnt;	// count down while deboucing reversal switch
-  uint16_t pause_cnt; 		// count down while motor is pausing
-  uint16_t loop_time_interval; 	// how many loops we had between the last two button presses
-  uint16_t time_cnt; 		// count up since the last button press.
+  uint8_t accel_cnt;		// Count down until next higher speed.
+  uint8_t pwm_speed;		// Which pwm_pattern array we use. 0 = 25%, 6 = 100%
+  uint8_t pwm_bit;		// Which pwm bit position we use.
+  uint8_t fwd;			// Boolean
+  uint16_t debounce_cnt;	// Count down while deboucing reversal switch
+  uint16_t pause_cnt; 		// Count down while motor is pausing
+  uint16_t loop_time_interval; 	// How many loops we had between the last two button presses
+  uint16_t time_cnt; 		// Count up since the last button press.
 } MOTOR;
 
 MOTOR m1 = { PIN_PB1, PIN_PD2, PIN_PD3, ACCEL_TIME };
 MOTOR m2 = { PIN_PB0, PIN_PD4, PIN_PD5, ACCEL_TIME };
 
 #define N_PWM_PATTTERN 7
+#define FULL_SPEED	(N_PWM_PATTTERN-1)
 uint8_t pwm_pattern[N_PWM_PATTTERN][8] = 	// we only run at 100 Hz, so we better spread out the bits to achieve higher effective frequencies and less stutter.
 {
   { 1,0,0,0,1,0,0,0 },  // 0:	2/8 = 25%
@@ -76,31 +81,31 @@ void do_wink(MOTOR *m)
   uint16_t timer = m->time_cnt;
   if (m->loop_time_interval != 0 && timer > PAUSE_TIME+PAUSE_TIME+SWITCH_DEBOUNCE_TIME)	// do nothing, when we don't know the loop time, or when just starting a loop
     {
-      uint16_t midpoint = WINK_TIME_OFFSET + (m->loop_time_interval) >> 1;
+      uint16_t midpoint = WINK_START_OFFSET_TIME + (m->loop_time_interval) >> 1;
       uint8_t action    = m->loop_time_interval & 0x7;
 
       if (action < 3)
 	{
-	  if (		timer == midpoint)
+	  if (		timer == midpoint - WINK_SLOW_TIME)
             {
-							m->accel_cnt = 60;	// no not auto-accellerate while we play here.
-							m->pwm_speed = 2; 	// when at midpoint, we slow down.
+								m->accel_cnt = 100;		// no auto-acceleration while we play here.
+								m->pwm_speed = WINK_SLOW_PWM; 	// when at midpoint, we slow down.
 	    }
-	  if (		timer == midpoint + 100)	m->fwd = 1 - m->fwd;	// reverse motor
-	  if (		timer == midpoint + 200)	m->fwd = 1 - m->fwd;	// a second later, we reverse again.
-	  if (action < 2)							// do a second and maybe even a third wink?
+	  if (		timer == midpoint + 0 * WINK_MOVE_TIME)	m->fwd = 1 - m->fwd;		// reverse motor
+	  if (		timer == midpoint + 1 * WINK_MOVE_TIME)	m->fwd = 1 - m->fwd;		// a second later, we reverse again.
+	  if (action < 2)		           						// do a second and maybe even a third wink?
 	    {
-	      if (	timer == midpoint + 300)	m->fwd = 1 - m->fwd;	// reverse again
-	      if (	timer == midpoint + 400)	m->fwd = 1 - m->fwd;	// and again
-	      if (action < 1)							// do a third wink?
+	      if (	timer == midpoint + 2 * WINK_MOVE_TIME)	m->fwd = 1 - m->fwd;		// reverse again
+	      if (	timer == midpoint + 3 * WINK_MOVE_TIME)	m->fwd = 1 - m->fwd;		// and again
+	      if (action < 1)		           						// do a third wink?
 		{
-		  if (	timer == midpoint + 500)	m->fwd = 1 - m->fwd;	// reverse again
-		  if (	timer == midpoint + 600)	m->fwd = 1 - m->fwd;	// and again
+		  if (	timer == midpoint + 4 * WINK_MOVE_TIME)	m->fwd = 1 - m->fwd;		// reverse again
+		  if (	timer == midpoint + 5 * WINK_MOVE_TIME)	m->fwd = 1 - m->fwd;		// and again
 		}
-              else if (	timer == midpoint + 500)	m->pwm_speed = 6; 	// back to full speed after only one wink
+              else if (	timer == midpoint + 2 * WINK_MOVE_TIME)	m->pwm_speed = FULL_SPEED; 	// normal speed after only one wink
 	    }
-          else if (	timer == midpoint + 300)	m->pwm_speed = 6; 	// back to full speed after two winks
-          if (		timer == midpoint + 700)	m->pwm_speed = 6; 	// back to full speed in any case.
+          else if (	timer == midpoint + 4 * WINK_MOVE_TIME)	m->pwm_speed = FULL_SPEED; 	// normal speed after two winks
+          if (		timer == midpoint + 6 * WINK_MOVE_TIME)	m->pwm_speed = FULL_SPEED; 	// normal speed in any case.
 	}
     }
 }
