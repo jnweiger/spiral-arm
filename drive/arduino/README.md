@@ -32,5 +32,11 @@ Tools -> Programmer: USBtinyISP SLOW		- the fast one does not work for me.
 disconnect, reconnect the USBtinyISP dongle. The green led comes on.
 
 Save, Upload, The red led on the USBtinyISP is on while uploading.
+
+There will be a compiler warning:
+  Global variables use 105 bytes (82%) of dynamic memory, leaving 23 bytes for local variables. Maximum is 128 bytes.
+  Low memory available, stability problems may occur.
+That is fine, we currently use 2 bytes of local variables. Need a 4313 if we run into trouble here. It has 256 bytes ram. tha tis twice as much!
+
 When upload is done, the LED on the clip starts blinking.
 SUCCESS!

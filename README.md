@@ -27,7 +27,7 @@ All the STL-files in the drive folder were exported from the drum.FCstd drawing.
 The motor is controlled by an Atmel ATTINY 2313 microcontroller connected to an L298N motor bridge. 
 the logic is very simple. The winds up the string, until the arm is fully curled up and hits a push-button in the mount. Then the motor rotation is reversed, so that it unrolls again. There is no reversal needed for the unrolled position, as the spool simply winds up the string again after it was fully unrolled. 
 
-You can also use an arudino-nano or similar instead of the bare metal 2313 -- programming a nano or uno is easier than. But for some reason I prefered to be minimalistic with the electronics.
+You can also use an arudino-nano or similar instead of the bare metal 2313 -- programming a nano or uno is easier than. But for some reason I prefered to be minimalistic with the electronics. (Well, the 128 bytes RAM are almost full.)
 
 If you can come up with a mechanical reversal switch that reliably works with this arm, please let me know. I failed to come up with something sufficiently robust, and went for the electronic solution instead. 
 
