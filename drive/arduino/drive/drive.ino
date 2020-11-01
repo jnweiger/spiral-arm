@@ -28,7 +28,7 @@ uint16_t led_cnt = 0;
 #define SWITCH_PRESSED LOW		/* Switch is connected to GND. Default: HIGH due to pullup */
 #define SWITCH_DEBOUNCE_TIME 100	// unit of 10 msec
 #define PAUSE_TIME 400			// unit of 10 msec. remain fully rolled up.
-#define WINK_TIME_OFFSET 300		// unit of 10 msec. Avoid hitting "exactly the unrolled point, where the string is loose"
+#define WINK_TIME_OFFSET 400		// unit of 10 msec. Avoid hitting "exactly the unrolled point, where the string is loose"
 #define ACCEL_TIME 10			// unit of 80 msec. Softstart ramp.
 
 
