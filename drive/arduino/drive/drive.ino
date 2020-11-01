@@ -75,7 +75,7 @@ void do_wink(MOTOR *m)
   uint16_t timer = m->time_cnt;
   if (m->loop_time_interval != 0 && timer > PAUSE_TIME+PAUSE_TIME+SWITCH_DEBOUNCE_TIME)	// do nothing, when we don't know the loop time, or when just starting a loop
     {
-      uint16_t midpoint = m->loop_time_interval >> 1;
+      uint16_t midpoint = (m->loop_time_interval + PAUSE_TIME) >> 1;
       uint8_t action    = m->loop_time_interval & 0x7;
 
       if (action < 3)
