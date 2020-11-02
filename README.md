@@ -1,8 +1,10 @@
 # Spiral Arm
 An articulated arm made out of plywood. Its movement reminds me of an unfolding fern leaf, or a (somewhat stiff) octopus arm.
 
-This wonderful design was [published by John Edmark](http://www.johnedmark.com/spirals1/2016/4/29/roll-up-spiral).
-He is also known for his [helicone](http://www.johnedmark.com/rotating1/2016/4/29/helicone-an-interactive-kinetic-sculpture).
+<a href="https://youtu.be/Tf0Yqqupt0k"><img width="50%" src="photos/20201025_205610.jpg"></a>
+  
+This object was [inspired by John Edmark](http://www.johnedmark.com/spirals1/2016/4/29/roll-up-spiral),
+who also invented the famous [helicone](http://www.johnedmark.com/rotating1/2016/4/29/helicone-an-interactive-kinetic-sculpture).
 
 The lasercut parts are designed with inkscape. The sides of the arm are drawn in their rolled up position, they almost completely fill the plane.
 You can still see how the grains of wood continue, when the arm fully rolled up.
