@@ -33,3 +33,6 @@ You can also use an arudino-nano or similar instead of the bare metal 2313 -- pr
 
 If you can come up with a mechanical reversal switch that reliably works with this arm, please let me know. I failed to come up with something sufficiently robust, and went for the electronic solution instead. 
 
+## Publications
+
+* [Thingiverse](https://www.thingiverse.com/thing:4860603)
